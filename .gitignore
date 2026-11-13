@@ -1,3 +1,11 @@
 .conda/
 .vscode/
 modified_fake_bills_csv.csv
+Project_2/cola_public/README
+Project_2/cola_public/raw/in_domain_dev.tsv
+Project_2/cola_public/raw/in_domain_train.tsv
+Project_2/cola_public/raw/out_of_domain_dev.tsv
+Project_2/cola_public/tokenized/in_domain_dev.tsv
+Project_2/cola_public/tokenized/in_domain_train.tsv
+Project_2/cola_public/tokenized/out_of_domain_dev.tsv
+Project_2/Emotions_small.csv
